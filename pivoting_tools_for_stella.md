@@ -1,9 +1,9 @@
 Building a User Interface for Business analytics tool over Stella 
-we are exploring some of the good pivoting tools for data analysis:
+, exploring some of the existing pivoting tools for data analysis:
 
 ###Terminology (borrowed from crossfilters):
 - Dimensions - A key in a your data row.
-- Measure    - Count, Sum, Uniuq Values List, Percentage, Ratios
+- Measure    - Count, Sum, Unique Values List, Percentage, Ratios
 - Group      - A logical grouping of data, serves as fields on rows
 - Filter     - Restricting the universe of data for groups
 
